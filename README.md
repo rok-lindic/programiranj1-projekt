@@ -16,7 +16,7 @@ Vnesi vzorec: test1
 -
 Rezultat: 0000100000000000100
 Število pojavitev: 2
-
+-
 
 Stanje definiramo kot tip, ki vsebuje index, ki ga predstavlja integer, output, ki je predstavljen s stringom in count, ki je prav tako predstavljen kot integer.
 
